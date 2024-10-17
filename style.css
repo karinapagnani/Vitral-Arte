@@ -97,6 +97,8 @@ footer {
     width: 400px;
 }
 .sobre .conteudo {
+    font-family: "Open";
+    font-size: 25px;
     width: 500px;
     text-align: center;
     margin-right: 100px;
@@ -110,11 +112,6 @@ footer {
 }
 span {
     color: #106EEA;
-}
-.sobre .conteudo {
-    font-family: "Open";
-    font-size: 25px;
-    text-align: center;
 }
 .caixa img {
     width: 100px;
@@ -174,6 +171,7 @@ span {
 }
 .servico h2 {
     font-family: "robotoB";
+    margin-top: 130px;
 }
 .servico p {
     font-family: "Open";
@@ -183,6 +181,7 @@ span {
 .equipe h2 {
     font-family: "robotoB";
     font-size: 30px;
+    margin-top: 80px;
 }
 .equipe p {
     font-family: "Open";
